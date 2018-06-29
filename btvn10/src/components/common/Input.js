@@ -25,7 +25,7 @@ const Input = ({lable,value, onChangeText, placeholder,secureTextEntry}) => {
 //=> TextInput take up 2/3 of the available space 
 const styles = {
    inputStyle : {
-       color: '#000',
+       color: 'white',
        paddingRight: 10,
        paddingLeft: 20,
        fontSize: 18,
@@ -33,10 +33,11 @@ const styles = {
        lineHeight: 23 // how much space between the lines
    },
    lableStyle : {
-       fontSize: 20,
+       fontSize: 18,
        paddingLeft: 30,
        flex : 1,
-       fontWeight:'500' ,
+       fontWeight:'600' ,
+       color : 'white'
        
    },
    // for view tag

@@ -18,23 +18,23 @@ const styles = {
     textStyle:{
         alignSelf: 'center',
         color: 'white',
-        fontSize: 27,
-        fontWeight: 800,
+        fontSize: 20,
+        fontWeight: 900,
         fontWeight: '600', 
         paddingTop: 5,
         paddingBottom: 5,
     },
     buttonStyle:{
         flex:1, // expand as much in width as it can
-        backgroundColor: 'black',
+        backgroundColor: '#EE2C51',
         borderRadius: 5,
         borderWidth: 2,
-        borderColor: 'yellow',
-        marginLeft: 50,
-        marginRight: 50,
+        borderColor: '#EE2C51',
+        marginLeft: 25,
+        marginRight: 25,
         shadowColor: '#000',
-        shadowOffset: { width: 0, height: 1 },
-        shadowOpacity: 0.05,
+        shadowOffset: { width: 0, height: 2 },
+        shadowOpacity: 0.7,
        
 
     }

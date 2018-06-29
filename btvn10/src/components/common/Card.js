@@ -14,7 +14,7 @@ const styles ={
     containerStyle: {
         width: wid,
         height: hei,
-         backgroundColor: 'pink' 
+         backgroundColor: '#243065' 
 
 
     }

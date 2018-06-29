@@ -16,7 +16,7 @@ class LoginForm extends Component {
                  
                  <Image
                  style = {styles.imageStyle}
-                 source = {require('./common/OPS34L0.jpg')}
+                 source = {require('./common/anh.png')}
                  />
                 </CardSection>
                  <CardSection>
@@ -67,7 +67,7 @@ class LoginForm extends Component {
 
              <CardSection>
                  <Button>
-                     Sign up
+                     SIGN UP
                  </Button>
              </CardSection>
              
